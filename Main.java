@@ -2,6 +2,7 @@ package assignment3ex1;
 
 public class Main {
 	public static void main(String[] args) {
+		//to be able to use float values
 		float num1=5.5f;
 		float num2=5f;
 		Calculator calc = new Calculator();
